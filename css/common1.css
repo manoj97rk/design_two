@@ -142,6 +142,17 @@ ul.cart-list > li.total > .btn{
     nav.navbar-center .navbar-brand{
         margin: 0 !important;
     }
+	.mbutton1 {
+  background-color: #4CAF50; 
+  color: white; 
+   font-size: 20px;
+  font-family:'Roboto',sans-serif;
+  font-weight:300;  
+  padding: 5px 32px;
+    text-align: center;
+	border-radius: 25px;
+
+}
     
     /* Navbar Brand Top ------*/
     nav.navbar-brand-top .navbar-brand{

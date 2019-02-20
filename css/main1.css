@@ -85,6 +85,17 @@ font-weight:400;
 display: block;
  margin-bottom: 25px;
 }
+.mbutton1 {
+  background-color: #4CAF50; 
+  color: white; 
+   font-size: 20px;
+  font-family:'Roboto',sans-serif;
+  font-weight:300;  
+  padding: 5px 32px;
+    text-align: center;
+	border-radius: 25px;
+
+}
 .main-banner:before{
 content:"";
 display:block;
